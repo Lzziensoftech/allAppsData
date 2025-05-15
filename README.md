@@ -1,1 +1,1 @@
-# allAppsData
+allAppData
